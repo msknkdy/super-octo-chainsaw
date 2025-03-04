@@ -1,4 +1,4 @@
-# super-octo-chainsaw
+#Öklid mesafesi
 //Öklid mesafesi
 import math
 
